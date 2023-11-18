@@ -5,7 +5,7 @@ import { AiOutlineCaretRight } from "react-icons/ai";
 
 const Hero = () => {
   return (
-    <section className='max-container padding-container justify-center items-center md:items-start flex flex-col gap-8 py-16 pb-32  md:py-20 md:flex-row-reverse z-10'>
+    <section className='max-container padding-container justify-center items-center md:items-start flex flex-col gap-8 py-16 md:pb-32  md:py-20 md:flex-row-reverse z-10'>
         <div className='relative'>
           <Image
             src="/heroApp.png"
@@ -68,15 +68,8 @@ const Hero = () => {
           </div>
         </div>
         <div className='relative z-1 flex flex-col xl:w-1/2 my-8 md:my-16'>
-            {/* <Image
-                src="/house.png"
-                alt="house"
-                width={40}
-                height={40}
-                className='absolute left-[5px] top-[-40px] w-10 lg:w-[40px]'
-            /> */}
             <h1 className='regular-32 lg:regular-52  font-poppins text-gray-500'>
-                <span className='text-green-700 font-bold'>Mobile App</span> <span className='text-gray-700 font-bold'>Moneda</span><br /> 
+                Mobile App <span className='text-gray-700 font-bold'>Moneda</span><br /> 
                 For Every <br/>
                 <span className='text-gray-700 font-bold'>House Furniture </span>
             </h1>

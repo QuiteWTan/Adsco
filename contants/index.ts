@@ -72,6 +72,23 @@ export const NAV_LINKS = [
     ],
   };
   
+  export const STEPS = [
+    {
+      title:'Download Moneda',
+      description:
+          "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+    },
+    {
+      title:'Choose Furniture',
+      description:
+          "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+    },
+    {
+      title:'Make Payment',
+      description:
+          "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+    }
+  ]
   export const SOCIALS = {
     title: 'Social',
     links: [
