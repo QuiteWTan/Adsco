@@ -24,7 +24,7 @@ const Steps = () => {
                 <li className='flex flex-col ' key={step.title}>
                   <div className='flex flex-row items-center gap-4 md:gap-8 lg:gap-12 '>
                     <div className='border-2 border-black rounded-full  w-5 h-5'></div>
-                    <h1 className='bold-20'>{step.title}</h1>
+                    <h1 className='bold-20 text-[#BCA37F]'>{step.title}</h1>
                   </div>
                   <div className='flex flex-row items-center gap-4 md:gap-8 lg:gap-12 px-[10px]'>
                     <h1 className='border-l-2 border-black py-4 px-6 md:px-10 lg:px-14 regular-14 '>{step.description}</h1>
@@ -40,7 +40,7 @@ const Steps = () => {
                 height={24}
                 className=' border-2 border-black rounded-full'
               />
-              <h1 className='bold-20 text-green-700'>Done</h1>
+              <h1 className='bold-20 text-[#BCA37F]'>Done!</h1>
             </div>
           </ul>
         </div>

@@ -53,23 +53,23 @@ const DisplayFurniture = () => {
       <div className='hide-scrollbar flex h-[340px] w-full items-start justify-start gap-8 overflow-x-auto lg:h-[400px] xl:h-[640px]'>
         <FurnitureDesign
           backgroundImage = "bg-bg-img-1"
-          title="Try This Design"
-          subtitle = "Nordic Design"
-          peopleJoined = "50+ Liked"
+          title="Famous Bakery Inspiration"
+          subtitle = "Nordic Bakery"
+          peopleJoined = "50+ Approved"
         />
 
         <FurnitureDesign
           backgroundImage = "bg-bg-img-2"
-          title="Try This Design"
-          subtitle = "Southern Design"
-          peopleJoined = "50+ Joined"
+          title="Famous Cafe Inspiration"
+          subtitle = "Southern Cafe"
+          peopleJoined = "50+ Approved"
         />
       </div>
 
       <div className='flexEnd mt-10 px-6 md:-mt-60 lg:mr-6'>
         <div className='bg-gray-700 p-6 md:max-w-[300px] lg:max-w-[450px] xl:max-w-[650px] xl:rounded-5xl xl:px-16 xl:py-20 relative w-full overflow-hidden rounded-3xl'>
           <h2 className='regular-20 md:regular-24 xl:regular-40 text-white'>
-            <strong>Feeling Lost</strong> And Not Knowing How to Design?
+            <strong>No Inspiration</strong> and Confused To Design Your Cafe?
           </h2>
           <p className='regular-14 xl:regular-16 mt-5 text-white'>
             Revolutionize your home decor with our innovative mobile furniture app, bringing style and functionality to your fingertips. Revolutionize your home decor with our innovative mobile furniture app, bringing style and functionality to your fingertips.

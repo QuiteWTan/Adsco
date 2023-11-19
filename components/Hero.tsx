@@ -17,7 +17,7 @@ const Hero = () => {
           <div className='absolute flex flex-1 items-start bottom-0 left-0 '>
             <div className='relative z-20 w-[200px] h-[120px] md:w-[268px] md:h-[190px]  gap-8 rounded-3xl bg-white backdrop-blur-2xl border-2 shadow-2xl overflow-hidden'>
               <Image
-                src="/FloatingCard1.png"
+                src="/FloatingCard1.jpg"
                 alt='card1'
                 width={268}
                 height={0}
@@ -27,9 +27,9 @@ const Hero = () => {
                 <div className='flex flex-col pb-2 '>
                   <p className='regular-14 md:regular-20 text-white/70'>Customizeable</p>
                   <p className='text-xs md:text-base text-white'>
-                    Bring your house design to the next level with -{'>'}          
+                    Take Bakery Experience To The Next Level -{'>'}          
                   </p>
-                  <p className='text-sm md:text-xl font-bold mt-2 md:mt-6 text-white font-didot'> Moneda</p>
+                  <p className='text-sm md:text-xl font-bold mt-2 md:mt-6 text-white font-didot'>Bun.co</p>
                 </div> 
               </div>
             </div>
@@ -45,7 +45,7 @@ const Hero = () => {
                       className='max-w-[100px] h-[80px] w-[60px] md:w-[100px] md:h-[120px] '
                   />
                   <div className='flex justify-center flex-col  font-poppins'>
-                    <p className='regular-14 md:regular-16 text-gray-700'>Modern Chair</p>
+                    <p className='regular-14 text-gray-700'>Chocolate Cake</p>
                     <div className='flex items-center gap-1'>
                       {
                         [...Array(5)].map((_, index)=>(
@@ -60,7 +60,7 @@ const Hero = () => {
                       }
                     </div>
                     <p className='regular-16 md:regular-20 text-gray-700 font-bold'>$ 172</p>
-                    <button className='px-2 py-1 bg-black text-white regular-14 rounded-3xl'>Purchase</button>
+                    <button className='px-2 py-1 bg-[#BCA37F] text-white regular-14 rounded-3xl'>Purchase</button>
                   </div>
 
                 </div>
@@ -69,9 +69,9 @@ const Hero = () => {
         </div>
         <div className='relative z-1 flex flex-col xl:w-1/2 my-8 md:my-16'>
             <h1 className='regular-32 lg:regular-52  font-poppins text-gray-500'>
-                Mobile App <span className='text-gray-700 font-bold'>Moneda</span><br /> 
-                For Every <br/>
-                <span className='text-gray-700 font-bold'>House Furniture </span>
+                Mobile App <span className='font-bold'>Bun.co</span><br /> 
+                For Every Loving<br/>
+                <span className=' font-bold'>Baked Bread </span>
             </h1>
             <p className='regular-16 mt-6 text-gray-30 max-w-[520px]'>Revolutionize your home decor with our innovative mobile furniture app, bringing style and functionality to your fingertips.</p>
 

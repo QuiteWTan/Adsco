@@ -44,7 +44,6 @@ module.exports = {
         'bg-img-1': "url('/Furniture1.jpg')",
         'bg-img-2': "url('/Furniture2.png')",
         'feature-bg': "url('/feature-bg.png')",
-        pattern : "url('/pattern.png')",
         'pattern-1': "url('/FloatingCard1.png')",
         'pattern-2': "url('/FloatingCard2.png')",
       },

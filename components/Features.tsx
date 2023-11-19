@@ -31,11 +31,11 @@ const Features = () => {
             <p className='text-xs md:text-sm lg:text-base font-poppins'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           </div>
           <Image
-              src='/Features3.png'
+              src='/Features2.png'
               alt='/'
               width={300}
               height={300}
-              className='w-[250px] md:w-[300px] lg:w-[380px] h-[220px] md:h-[280px] lg:h-[320px] top-[-60px] right-[-40px] absolute'
+              className='w-[250px] md:w-[300px] lg:w-[380px] h-[220px] md:h-[280px] lg:h-[320px] top-[-80px] right-[-50px] absolute'
             />
         </div>
         <div className='flex flex-col w-[250px] md:w-[300px] lg:w-[340px] h-[280px] md:h-[370px] lg:h-[440px] shadow-xl border bg-white rounded-5xl overflow-hidden relative'>
@@ -44,7 +44,7 @@ const Features = () => {
             <p className='text-xs md:text-sm lg:text-base font-poppins'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           </div>
           <Image
-              src='/Features2.png'
+              src='/Features3.png'
               alt='/'
               width={300}
               height={300}
