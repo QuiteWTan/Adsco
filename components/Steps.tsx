@@ -8,7 +8,7 @@ const Steps = () => {
     <div className='max-container padding-container '>
       <div className='flex flex-col md:flex-row gap-4 md:gap-8 justify-center w-full items-center md:items-start'>
         <Image
-          src="/steps.png"
+          src="/Steps.png"
           alt="Description of the image"
           width={500}
           height={0}

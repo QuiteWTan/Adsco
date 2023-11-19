@@ -73,7 +73,7 @@ const Hero = () => {
                 For Every Loving<br/>
                 <span className=' font-bold'>Baked Bread </span>
             </h1>
-            <p className='regular-16 mt-6 text-gray-30 max-w-[520px]'>Revolutionize your home decor with our innovative mobile furniture app, bringing style and functionality to your fingertips.</p>
+            <p className='regular-16 mt-6 text-gray-30 max-w-[520px]'>a delectable delight at your fingertips! Satisfy your sweet cravings and indulge in the art of baking with the ultimate convenience of our user-friendly application.</p>
 
             <div className='flex flex-col w-full gap-3 lg:flex-row my-6'>
                 <Button

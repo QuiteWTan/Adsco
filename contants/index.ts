@@ -45,17 +45,17 @@ export const NAV_LINKS = [
     {
       title:'Download Bun.co',
       description:
-          "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+          "a delectable delight at your fingertips! Satisfy your sweet cravings and indulge in the art of baking with the ultimate convenience of our user-friendly application. ",
     },
     {
       title:'Choose Bread & Customize',
       description:
-          "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+          "From mouthwatering cupcakes to artisanal bread, our app brings the bakery experience directly to your mobile device.",
     },
     {
       title:'Make Payment',
       description:
-          "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+          "Browse through a tantalizing array of recipes, each crafted for simplicity without compromising on taste. With step-by-step instructions, helpful tips, and stunning visuals",
     }
   ]
   export const SOCIALS = {

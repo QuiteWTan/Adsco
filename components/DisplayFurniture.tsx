@@ -72,7 +72,7 @@ const DisplayFurniture = () => {
             <strong>No Inspiration</strong> and Confused To Design Your Cafe?
           </h2>
           <p className='regular-14 xl:regular-16 mt-5 text-white'>
-            Revolutionize your home decor with our innovative mobile furniture app, bringing style and functionality to your fingertips. Revolutionize your home decor with our innovative mobile furniture app, bringing style and functionality to your fingertips.
+            a delectable delight at your fingertips! Satisfy your sweet cravings and indulge in the art of baking with the ultimate convenience of our user-friendly application. From mouthwatering cupcakes to artisanal bread, our app brings the bakery experience directly to your mobile device.
           </p>
           <Image
             src="/quote.svg"
