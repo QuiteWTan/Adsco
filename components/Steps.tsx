@@ -12,7 +12,7 @@ const Steps = () => {
           alt="Description of the image"
           width={500}
           height={0}
-          className='max-h-[40vh] min-[400px]:max-h-[55vh] md:max-h-[85vh] min-h-[50vh] min-[400px]:max-w-[380px] lg:max-w-[500px]'
+          className='max-h-[40vh] min-[400px]:max-h-[55vh] md:max-h-[85vh] min-h-[50vh] min-[400px]:max-w-[380px] lg:max-w-[500px] md:self-center'
         />
         <div className='relative z-1 flex flex-col xl:w-1/2 my-4 px-4 xl:px-12'>
           <h1 className='regular-32 lg:regular-52 text-gray-700 font-bold'>
@@ -40,7 +40,7 @@ const Steps = () => {
                 height={24}
                 className=' border-2 border-black rounded-full'
               />
-              <h1 className='bold-20 text-green-700'>DONE</h1>
+              <h1 className='bold-20 text-green-700'>Done</h1>
             </div>
           </ul>
         </div>

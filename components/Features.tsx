@@ -12,7 +12,7 @@ const Features = () => {
         </div>
       </div>
       <div className='flex flex-wrap w-full justify-center z-10 gap-4 md:gap-6 lg:gap-10 '>
-        <div className='flex flex-col w-[250px] md:w-[300px] lg:w-[340px] h-[280px] md:h-[370px] lg:h-[440px] shadow-xl border bg-white rounded-md overflow-hidden relative'>
+        <div className='flex flex-col w-[250px] md:w-[300px] lg:w-[340px] h-[280px] md:h-[370px] lg:h-[440px] shadow-xl border bg-white rounded-5xl overflow-hidden relative'>
           <div className='px-6 pt-6 flex flex-col gap-2 w-full'>
             <h1 className='bold-18 md:bold-20 lg:bold-28'>Instant Delivery, <br/>With Just One click</h1>
             <p className='text-xs md:text-sm lg:text-base font-poppins'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -25,7 +25,7 @@ const Features = () => {
               className='w-[180px] md:w-[220px] lg:w-[280px] h-[150px] md:h-[230px] lg:h-[280px] bottom-[-20px] right-[-20px] absolute'
             />
         </div>
-        <div className='flex flex-col w-[250px] md:w-[300px] lg:w-[340px] h-[280px] md:h-[370px] lg:h-[440px] shadow-xl border bg-white rounded-md overflow-hidden relative'>
+        <div className='flex flex-col w-[250px] md:w-[300px] lg:w-[340px] h-[280px] md:h-[370px] lg:h-[440px] shadow-xl border bg-white rounded-5xl overflow-hidden relative'>
           <div className='px-6 pb-6 flex flex-col gap-2 w-full absolute bottom-0 left-0'>
             <h1 className='bold-18 md:bold-20 lg:bold-28'>Instant Delivery, <br/>With Just One click</h1>
             <p className='text-xs md:text-sm lg:text-base font-poppins'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -38,7 +38,7 @@ const Features = () => {
               className='w-[250px] md:w-[300px] lg:w-[380px] h-[220px] md:h-[280px] lg:h-[320px] top-[-60px] right-[-40px] absolute'
             />
         </div>
-        <div className='flex flex-col w-[250px] md:w-[300px] lg:w-[340px] h-[280px] md:h-[370px] lg:h-[440px] shadow-xl border bg-white rounded-md overflow-hidden relative'>
+        <div className='flex flex-col w-[250px] md:w-[300px] lg:w-[340px] h-[280px] md:h-[370px] lg:h-[440px] shadow-xl border bg-white rounded-5xl overflow-hidden relative'>
           <div className='px-6 pt-6 flex flex-col gap-2 w-full absolute top-0 left-0'>
             <h1 className='bold-18 md:bold-20 lg:bold-28'>Instant Delivery, <br/>With Just One click</h1>
             <p className='text-xs md:text-sm lg:text-base font-poppins'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>

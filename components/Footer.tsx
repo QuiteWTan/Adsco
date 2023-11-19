@@ -68,7 +68,7 @@ const Footer = () => {
           </div>
         </div>
         <div className='border-t-2 border-gray-20 py-2'>
-          <p className='regular-14 w-full text-center text-gray-30'> @Copyright 2023 Moneda | All Rights Reserved</p>
+          <p className='regular-14 w-full text-center text-gray-30'> @2023 Moneda | All Rights Reserved</p>
         </div>
       </div>
     </footer>
