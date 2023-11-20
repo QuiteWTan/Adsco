@@ -69,7 +69,7 @@ const Hero = () => {
         </div>
         <div className='relative z-1 flex flex-col xl:w-1/2 my-8 md:my-16'>
             <h1 className='regular-32 lg:regular-52  font-poppins text-gray-500'>
-                Mobile App <span className='font-bold'>Bun.co</span><br /> 
+                Mobile App <span className='font-bold text-[#BCA37F]'>Bun.co</span><br /> 
                 For Every Loving<br/>
                 <span className=' font-bold'>Baked Bread </span>
             </h1>
