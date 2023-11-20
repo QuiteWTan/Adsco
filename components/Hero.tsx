@@ -71,7 +71,7 @@ const Hero = () => {
             <h1 className='regular-32 lg:regular-52  font-poppins text-gray-500'>
                 Mobile App <span className='font-bold text-[#BCA37F]'>Bun.co</span><br /> 
                 For Every Loving<br/>
-                <span className=' font-bold'>Baked Bread </span>
+                <span className=' font-bold text-[#BCA37F]'>Baked Bread </span>
             </h1>
             <p className='regular-16 mt-6 text-gray-30 max-w-[520px]'>a delectable delight at your fingertips! Satisfy your sweet cravings and indulge in the art of baking with the ultimate convenience of our user-friendly application.</p>
 
