@@ -7,7 +7,7 @@ import Footer from '@/components/Footer'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Moneda',
+  title: 'Adsco',
   description: 'E-wallet for your transaction',
 }
 
