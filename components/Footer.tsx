@@ -28,7 +28,7 @@ const Footer = () => {
             className='flex items-center gap-2  mb-10'
           >
             <BiSolidObjectsHorizontalRight size="30px"/>
-            <h1 className='text-lg md:text-2xl lg:text-3xl font-didot font-bold'>Moneda</h1>
+            <h1 className='text-lg md:text-2xl lg:text-3xl font-didot font-bold'>Adsco</h1>
           </Link>
           <div className='flex flex-wrap gap-10 sm:justify-between md:flex-1'>
             {FOOTER_LINKS.map((column, index)=>(
@@ -68,7 +68,7 @@ const Footer = () => {
           </div>
         </div>
         <div className='border-t-2 border-gray-20 py-2'>
-          <p className='regular-14 w-full text-center text-gray-30'> @2023 Moneda | All Rights Reserved</p>
+          <p className='regular-14 w-full text-center text-gray-30'> @2023 Adsco | All Rights Reserved</p>
         </div>
       </div>
     </footer>

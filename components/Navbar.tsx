@@ -16,7 +16,7 @@ const Navbar = () => {
           className='flex items-center gap-2 '
         >
           <BiSolidObjectsHorizontalRight size="30px"/>
-          <h1 className='text-lg md:text-2xl lg:text-3xl font-didot font-bold'>Moneda</h1>
+          <h1 className='text-lg md:text-2xl lg:text-3xl font-didot font-bold'>Adsco</h1>
         </Link>
         
         <ul className='hidden h-full gap-12 lg:flex'>

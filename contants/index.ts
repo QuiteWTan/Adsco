@@ -29,7 +29,7 @@ export const NAV_LINKS = [
     },
     {
       title: 'Our Community',
-      links: ['Design Moneda', 'Furniture Moneda', 'Partnership'],
+      links: ['Design Adsco', 'Bakery Adsco', 'Partnership'],
     },
   ];
   
@@ -37,7 +37,7 @@ export const NAV_LINKS = [
     title: 'Contact Us',
     links: [
       { label: 'Phone', value: '123-456-7890' },
-      { label: 'Email', value: 'moneda123@geko.com' },
+      { label: 'Email', value: 'Adsco123@geko.com' },
     ],
   };
   
